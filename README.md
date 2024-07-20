@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [My Website](https://github.com/AJM-L/website)
 
-- 🌱 I’m currently learning **Unity and Azure**
+- 🌱 I’m currently learning **SQL, Unity, and Azure**
 
 - 👨‍💻 Most of my projects are available at [https://ajm-l.github.io/website/](https://ajm-l.github.io/website/)
 
