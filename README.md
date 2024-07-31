@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **amatheson53@students.claremontmckenna.edu**
 
-- ⚡ Fun fact **I write for my colleges satire newspaper**
+- ⚡ Fun fact **I write for my college's satire newspaper**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
