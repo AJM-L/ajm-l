@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [My Website](https://github.com/AJM-L/website)
 
-- 🌱 I’m currently learning **SQL, Unity, and Azure**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 Most of my projects are available at [https://ajm-l.github.io/website/](https://ajm-l.github.io/website/)
 
 - 📝 I occasionally write articles on [https://ajm-l.github.io/TechBlog/](https://ajm-l.github.io/TechBlog/)
 
-- 💬 Ask me about **Machine Learning, Fashion, and Web Development**
+- 💬 Ask me about **Philosophy, Fashion, and Art**
 
 - 📫 How to reach me **amatheson53@students.claremontmckenna.edu**
 
