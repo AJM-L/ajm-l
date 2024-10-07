@@ -7,8 +7,6 @@
 
 - 👨‍💻 Most of my projects are available at [https://ajm-l.github.io/website/](https://ajm-l.github.io/website/)
 
-- 📝 I occasionally write articles on [https://ajm-l.github.io/TechBlog/](https://ajm-l.github.io/TechBlog/)
-
 - 💬 Ask me about **Philosophy, Fashion, and Art**
 
 - 📫 How to reach me **amatheson53@students.claremontmckenna.edu**
