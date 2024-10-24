@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [My Website](https://github.com/AJM-L/website)
 
-- 🌱 I’m currently learning **Web Development**
-
 - 👨‍💻 Most of my projects are available at [https://ajm-l.github.io/website/](https://ajm-l.github.io/website/)
 
 - 💬 Ask me about **Philosophy, Fashion, and Art**
