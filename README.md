@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm AJ Matheson-Lieber</h1>
 <h3>A passionate full-stack developer from Portland, Oregon</h3>
 
-- 🔭 I’m currently working on [My Website](https://github.com/AJM-L/website)
+- 🔭 I’m currently working on [A PDF reader app](https://easydocumentreader.com)
 
 - 👨‍💻 Most of my projects are available at [https://ajm-l.github.io/website/](https://ajm-l.github.io/website/)
 
